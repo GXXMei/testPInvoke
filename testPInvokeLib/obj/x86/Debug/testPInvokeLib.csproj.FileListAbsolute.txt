@@ -1,0 +1,9 @@
+E:\Projects\CSharp\testPInvokeLib\testPInvokeLib\bin\x86\Debug\testPInvokeLib.exe.config
+E:\Projects\CSharp\testPInvokeLib\testPInvokeLib\bin\x86\Debug\testPInvokeLib.exe
+E:\Projects\CSharp\testPInvokeLib\testPInvokeLib\bin\x86\Debug\testPInvokeLib.pdb
+E:\Projects\CSharp\testPInvokeLib\testPInvokeLib\obj\x86\Debug\testPInvokeLib.csproj.AssemblyReference.cache
+E:\Projects\CSharp\testPInvokeLib\testPInvokeLib\obj\x86\Debug\testPInvokeLib.Properties.Resources.resources
+E:\Projects\CSharp\testPInvokeLib\testPInvokeLib\obj\x86\Debug\testPInvokeLib.csproj.GenerateResource.cache
+E:\Projects\CSharp\testPInvokeLib\testPInvokeLib\obj\x86\Debug\testPInvokeLib.csproj.CoreCompileInputs.cache
+E:\Projects\CSharp\testPInvokeLib\testPInvokeLib\obj\x86\Debug\testPInvokeLib.exe
+E:\Projects\CSharp\testPInvokeLib\testPInvokeLib\obj\x86\Debug\testPInvokeLib.pdb
